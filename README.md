@@ -13,9 +13,10 @@ We have provided you with a project template that takes care of all the imports 
 Datasets
 For this project, you'll be working with one dataset: event_data. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:
 
+```
 event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
-
+```
 
 ## Project Steps
 Below are steps you can follow to complete each component of this project.
